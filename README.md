@@ -11,6 +11,7 @@ For copyright considerations we are only able to provide [the song interpretatio
 1. Download the [metadata](https://drive.google.com/file/d/1N4X3P_iGEV-qXiOIhEU2wstiT-fodj0b/view?usp=sharing) to *data/music4all*.
 2. Download the [song waveforms](https://drive.google.com/file/d/1N4J1pJZ284j9Pgi48uQxUoRWrJfwggCK/view?usp=sharing) to *data/music4all/audios*.
 3. (Optional) Download the [song embeddings](https://drive.google.com/file/d/1N2GliV3BpiuW3y2ea_Oi84JB25OBi47S/view?usp=sharing) to *data/music4all/audios*. If not downloaded the code will generate the embeddings from scratch.
+4. (Optional) Download the [CNN music encoder](https://drive.google.com/file/d/1mte7J63wOQPxG0jRu8dS9SQInOWMNUz6/view?usp=sharing) to *ckp/*
 
 ## Model Training
 ```angular2html

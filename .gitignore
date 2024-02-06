@@ -187,6 +187,7 @@ fabric.properties
 .DS_Store
 
 # data
+ckp/model_cnnsa.pth
 results/
 data/music4all/audios/
 data/music4all/metadata.zip
